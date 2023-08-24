@@ -1,9 +1,5 @@
 allowlist
-Apache Arrow
 AuraDB
-AuraDB Free
-AuraDB Professional
-AuraDB Enterprise
 AuraDS
 CPUs
 Cypher
@@ -12,14 +8,8 @@ GRANDstack
 GraphQL
 JavaScript
 Neo4j
-Neo4j Bloom
-Neo4j Browser
-Neo4j Cypher Shell
-Neo4j Desktop
-Neo4j Server
 Parallelization
 Pregel
 Python
-Spring Boot
 walkthrough
 URIs
