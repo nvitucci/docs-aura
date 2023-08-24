@@ -19,7 +19,7 @@ WARNING: *Warning*: Make sure that the username and password are stored safely b
 
 [NOTE]
 ====
-Multi-database is not supported within Neo4j AuraDS. Add Neo4j browser. But also browser.
+Multi-database is not supported within Neo4j AuraDS. Add Neo4j Browser. But also browser.
 ====
 
 The process will take a few minutes to complete. Upon completion, you will be able to xref:aurads/connecting/index.adoc[connect to the instance].
