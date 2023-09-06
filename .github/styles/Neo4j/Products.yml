@@ -9,6 +9,7 @@ swap:
   (?<=AuraDB )enterprise: AuraDB Enterprise
   (?<=AuraDS )professional: AuraDS Professional
   (?<=AuraDS )enterprise: AuraDS Enterprise
+  (?<=Neo4j Cypher )shell: Cypher Shell
   (?<=Neo4j )browser: Neo4j Browser
   (?<=Neo4j )bloom: Neo4j Bloom
   (?<=Neo4j Cypher )shell: Neo4j Cypher Shell
