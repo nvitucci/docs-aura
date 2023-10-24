@@ -48,5 +48,5 @@ tests/
 # Datasets downloaded via notebooks
 notebooks/dataset
 
-# VSCode
-.vscode/
+# IDE
+.vscode
