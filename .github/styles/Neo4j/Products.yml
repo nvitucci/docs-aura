@@ -1,0 +1,18 @@
+extends: substitution
+message: Use '%s' instead of '%s'.
+level: error
+ignorecase: false
+swap:
+  (?<=Apache )arrow: Apache Arrow
+  (?<=AuraDB )free: AuraDB Free
+  (?<=AuraDB )professional: AuraDB Professional
+  (?<=AuraDB )enterprise: AuraDB Enterprise
+  (?<=AuraDS )professional: AuraDS Professional
+  (?<=AuraDS )enterprise: AuraDS Enterprise
+  (?<=Neo4j Cypher )shell: Cypher Shell
+  (?<=Neo4j )browser: Neo4j Browser
+  (?<=Neo4j )bloom: Neo4j Bloom
+  (?<=Neo4j Cypher )shell: Neo4j Cypher Shell
+  (?<=Neo4j )desktop: Neo4j Desktop
+  (?<=Neo4j )server: Neo4j Server
+  (?<=Spring )boot: Spring Boot
